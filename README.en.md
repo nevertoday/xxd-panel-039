@@ -39,7 +39,18 @@ One posture, contour, relation, action, or symbolic detail carries the whole sou
 
 These samples demonstrate the 039 aesthetic motive. Their subjects, composition, palette, copy, and earlier canvas ratio never become generation references or current defaults.
 
-## Why this Skill exists
+<!-- xxd-panel-benefit:start -->
+## Quick fit check: is XXD Panel 039 right for you?
+
+| What you need to know | What this style gives you |
+|---|---|
+| **What you will get** | Keep one photograph's essence in one living field of Chinese silk |
+| **Recognizable signature** | ONE IMAGE · ONE ESSENCE · SILK DIRECTION · CLEAN GROUND · EASTERN SILENCE |
+| **How it respects your source** | Recognizable identity, relationships, structure, and supplied facts stay anchored. Styling reorganizes the visual language instead of replacing your content with an unrelated template. |
+| **Where you can use it** | Create top-bottom, left-right, design-only, and four-device wallpaper outputs in multiple ratios or exact sizes. Delivery changes; the Panel's style identity does not get diluted. |
+<!-- xxd-panel-benefit:end -->
+
+## How it turns your source into a distinctive result
 
 The style is source-dependent, not a decorative preset. Its operative transformation is:
 
@@ -49,7 +60,7 @@ understand the source's one true core → choose one representative image → pr
 
 If an unrelated photograph could replace the source without materially changing recognition, construction, placement, material, colour, whitespace, and copy, the result does not belong to this Panel.
 
-## The visual contract
+## What makes the finished style recognizable
 
 - One image carries one meaning. Do not embroider the whole photograph or convert every visible object.
 - Preserve at least three source cues in one posture, contour, relation, action, or symbolic detail.
