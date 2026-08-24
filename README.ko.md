@@ -20,6 +20,25 @@
 
 하나의 자세, 윤곽, 관계, 동작 또는 상징적 부분만으로 원본 전체를 담고, 중국 비단실의 층, 바늘 방향 변화, 생생한 색, 미완성 가장자리와 능동적인 동양의 여백으로 재구성합니다.
 
+## 예시 · X에서
+
+> [샤오샤오둥（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2090817611953270966) · 2026-08-21<br>
+> GPT2 x 刺绣 x 内核 x 美学提示词 x VOL.039
+
+<table>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090817611953270966"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 039 예시 1"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090817611953270966"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 039 예시 2"></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090817611953270966"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 039 예시 3"></a></td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090817611953270966">원문 게시물과 전체 프롬프트 보기 →</a></p>
+
+이 예시는 039의 미학적 의도를 보여 줄 뿐이며, 예시의 주제, 구성, 색상, 문구, 이전 캔버스 비율은 생성 참고나 현재 기본값이 되지 않습니다.
+
 ## 이 Skill이 필요한 이유
 
 이 스타일은 원본에 의존하며 내용을 바꿔 끼우는 장식 프리셋이 아닙니다. 다음 변환 인과를 따릅니다:
@@ -39,25 +58,6 @@ understand the source's one true core → choose one representative image → pr
 - **재료와 색:** 고정 템플릿이 아니라 사진에서 도출하고 프로젝트별 생성 규격을 적용합니다.
 
 미적 제약과 금지 항목은 [원본 프롬프트](references/039-source.md)에만 있으며 Skill과 런타임 어댑터는 이번 출력 변수만 처리합니다. [Skill](SKILL.md) · [영문 런타임 어댑터](references/xxd-panel-039-prompt.en.md)
-
-## 예시 · X에서
-
-> [샤오샤오둥（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2090817611953270966) · 2026-08-21<br>
-> GPT2 x 刺绣 x 内核 x 美学提示词 x VOL.039
-
-<table>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090817611953270966"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 039 예시 1"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090817611953270966"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 039 예시 2"></a></td>
-  </tr>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090817611953270966"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 039 예시 3"></a></td>
-  </tr>
-</table>
-
-<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090817611953270966">원문 게시물과 전체 프롬프트 보기 →</a></p>
-
-이 예시는 039의 미학적 의도를 보여 줄 뿐이며, 예시의 주제, 구성, 색상, 문구, 이전 캔버스 비율은 생성 참고나 현재 기본값이 되지 않습니다.
 
 ## 원본 프롬프트가 유일한 미적 기준입니다
 

@@ -20,6 +20,25 @@
 
 只用一个姿态、轮廓、关系、动作或象征性局部承载整张源图，通过中国丝线层次、针向变化、灵动色彩、未完成边缘和东方主动留白重构。
 
+## 样张 · 来自 X
+
+> [小小东（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2090817611953270966) · 2026-08-21<br>
+> GPT2 x 刺绣 x 内核 x 美学提示词 x VOL.039
+
+<table>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090817611953270966"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 039 样张 1"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090817611953270966"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 039 样张 2"></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090817611953270966"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 039 样张 3"></a></td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090817611953270966">查看原推文与完整提示词 →</a></p>
+
+这些样张用于展示 039 的美学动机，不会把样张中的主体、构图、配色、文案或旧画幅变成生成参考或当前默认值。
+
 ## 为什么需要这套 Skill
 
 这套风格依赖每一张源图，不是可替换内容的装饰预设。它遵循这条重构链：
@@ -40,25 +59,6 @@
 - 以近似色穿插、少量互补点醒、高纯度小面积亮色和针向闪烁建立源图衍生丝线色阶；丰富不杂乱，明艳不俗艳。
 
 原始审美约束与拒绝项只存在于[原始提示词](references/039-source.md)；Skill 与运行适配器只处理本次交付变量。 [Skill 工作流](SKILL.md) · [英文运行适配器](references/xxd-panel-039-prompt.en.md)
-
-## 样张 · 来自 X
-
-> [小小东（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2090817611953270966) · 2026-08-21<br>
-> GPT2 x 刺绣 x 内核 x 美学提示词 x VOL.039
-
-<table>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090817611953270966"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 039 样张 1"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090817611953270966"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 039 样张 2"></a></td>
-  </tr>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090817611953270966"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 039 样张 3"></a></td>
-  </tr>
-</table>
-
-<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090817611953270966">查看原推文与完整提示词 →</a></p>
-
-这些样张用于展示 039 的美学动机，不会把样张中的主体、构图、配色、文案或旧画幅变成生成参考或当前默认值。
 
 ## 原始提示词优先，而不是二次导演
 

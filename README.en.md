@@ -20,6 +20,25 @@
 
 One posture, contour, relation, action, or symbolic detail carries the whole source through layered Chinese silk, varied stitch direction, luminous colour, unfinished edges, and active Eastern whitespace.
 
+## Samples · From X
+
+> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2090817611953270966) · 2026-08-21<br>
+> GPT2 x 刺绣 x 内核 x 美学提示词 x VOL.039
+
+<table>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090817611953270966"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 039 sample 1"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090817611953270966"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 039 sample 2"></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090817611953270966"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 039 sample 3"></a></td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090817611953270966">View the original post and full prompt →</a></p>
+
+These samples demonstrate the 039 aesthetic motive. Their subjects, composition, palette, copy, and earlier canvas ratio never become generation references or current defaults.
+
 ## Why this Skill exists
 
 The style is source-dependent, not a decorative preset. Its operative transformation is:
@@ -40,25 +59,6 @@ If an unrelated photograph could replace the source without materially changing 
 - Build lively source-derived thread steps through close hues, small complements, tiny high-purity accents, and directional shimmer; rich but not chaotic, bright but not vulgar.
 
 Aesthetic constraints and rejection rules live only in the [original source brief](references/039-source.md); the Skill and runtime adapter handle delivery variables only. [Skill workflow](SKILL.md) · [English runtime adapter](references/xxd-panel-039-prompt.en.md)
-
-## Samples · From X
-
-> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2090817611953270966) · 2026-08-21<br>
-> GPT2 x 刺绣 x 内核 x 美学提示词 x VOL.039
-
-<table>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090817611953270966"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 039 sample 1"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090817611953270966"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 039 sample 2"></a></td>
-  </tr>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090817611953270966"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 039 sample 3"></a></td>
-  </tr>
-</table>
-
-<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090817611953270966">View the original post and full prompt →</a></p>
-
-These samples demonstrate the 039 aesthetic motive. Their subjects, composition, palette, copy, and earlier canvas ratio never become generation references or current defaults.
 
 ## The original brief is authoritative
 

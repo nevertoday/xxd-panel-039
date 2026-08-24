@@ -20,6 +20,25 @@
 
 一つの姿勢、輪郭、関係、動作、象徴的局部だけで元写真全体を担い、中国の絹糸の層、針方向の変化、輝く色、未完成の縁、能動的な東洋の余白で再構成します。
 
+## 作例 · X より
+
+> [小小東（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2090817611953270966) · 2026-08-21<br>
+> GPT2 x 刺绣 x 内核 x 美学提示词 x VOL.039
+
+<table>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090817611953270966"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 039 作例 1"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090817611953270966"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 039 作例 2"></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090817611953270966"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 039 作例 3"></a></td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090817611953270966">元の投稿と完全なプロンプトを見る →</a></p>
+
+これらの作例は 039 の美的意図を示すものであり、作例の被写体、構図、配色、コピー、旧キャンバス比率が生成時の参照や現在の既定値になることはありません。
+
 ## この Skill が必要な理由
 
 このスタイルは元写真に依存し、内容を差し替えられる装飾プリセットではありません。変換は次の因果鎖に従います：
@@ -39,25 +58,6 @@ understand the source's one true core → choose one representative image → pr
 - **素材と色：** 固定テンプレートではなく、写真から導き、プロジェクト固有の生成仕様に従うこと。
 
 美的制約と拒否項目は[原文プロンプト](references/039-source.md)だけにあり、Skill とランタイムアダプターは今回の出力変数だけを扱います。 [Skill](SKILL.md) · [英語ランタイムアダプター](references/xxd-panel-039-prompt.en.md)
-
-## 作例 · X より
-
-> [小小東（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2090817611953270966) · 2026-08-21<br>
-> GPT2 x 刺绣 x 内核 x 美学提示词 x VOL.039
-
-<table>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090817611953270966"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 039 作例 1"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090817611953270966"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 039 作例 2"></a></td>
-  </tr>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090817611953270966"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 039 作例 3"></a></td>
-  </tr>
-</table>
-
-<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090817611953270966">元の投稿と完全なプロンプトを見る →</a></p>
-
-これらの作例は 039 の美的意図を示すものであり、作例の被写体、構図、配色、コピー、旧キャンバス比率が生成時の参照や現在の既定値になることはありません。
 
 ## 原文プロンプトを唯一の美的基準にする
 

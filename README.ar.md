@@ -20,6 +20,25 @@
 
 تحمل وضعية أو محيط أو علاقة أو حركة أو تفصيلة رمزية واحدة المصدر كله عبر طبقات الحرير الصيني واتجاهات الغرز المتغيرة واللون المضيء والحواف غير المكتملة والفراغ الشرقي الفعّال.
 
+## النماذج · من X
+
+> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2090817611953270966) · 2026-08-21<br>
+> GPT2 x 刺绣 x 内核 x 美学提示词 x VOL.039
+
+<table>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090817611953270966"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 039 نموذج 1"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090817611953270966"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 039 نموذج 2"></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090817611953270966"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 039 نموذج 3"></a></td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090817611953270966">عرض المنشور الأصلي والتوجيه كاملاً ←</a></p>
+
+تعرض هذه النماذج الدافع الجمالي للإصدار 039 فقط؛ ولا تصبح موضوعاتها أو تكوينها أو ألوانها أو نصوصها أو نسبة اللوحة السابقة مراجع للتوليد أو إعدادات افتراضية حالية.
+
 ## لماذا توجد هذه المهارة؟
 
 يعتمد الأسلوب على المصدر وليس قالباً زخرفياً يمكن تبديل محتواه. ويتبع سلسلة التحويل الآتية:
@@ -39,25 +58,6 @@ understand the source's one true core → choose one representative image → pr
 - **المادة واللون:** يُشتقان من الصورة وفق توجيه الإنتاج الخاص بالمشروع، لا من قالب ثابت.
 
 لا توجد القيود الجمالية وقواعد الرفض إلا في [الموجّه الأصلي](references/039-source.md)، أما المهارة ومهايئ التشغيل فيعالجان متغيرات التسليم فقط. [Skill](SKILL.md) · [مهايئ التشغيل الإنجليزي](references/xxd-panel-039-prompt.en.md)
-
-## النماذج · من X
-
-> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2090817611953270966) · 2026-08-21<br>
-> GPT2 x 刺绣 x 内核 x 美学提示词 x VOL.039
-
-<table>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090817611953270966"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 039 نموذج 1"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090817611953270966"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 039 نموذج 2"></a></td>
-  </tr>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090817611953270966"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 039 نموذج 3"></a></td>
-  </tr>
-</table>
-
-<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090817611953270966">عرض المنشور الأصلي والتوجيه كاملاً ←</a></p>
-
-تعرض هذه النماذج الدافع الجمالي للإصدار 039 فقط؛ ولا تصبح موضوعاتها أو تكوينها أو ألوانها أو نصوصها أو نسبة اللوحة السابقة مراجع للتوليد أو إعدادات افتراضية حالية.
 
 ## الموجّه الأصلي هو المرجع الجمالي الوحيد
 
