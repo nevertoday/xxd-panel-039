@@ -39,6 +39,12 @@
 
 只用一个姿态、轮廓、关系、动作或象征性局部承载整张源图，通过中国丝线层次、针向变化、灵动色彩、未完成边缘和东方主动留白重构。
 
+## 原始提示词 · 五种语言
+
+[打开统一的多语言目录](references/original-prompt/)： [简体中文原文](references/original-prompt/zh-CN.md) · [English](references/original-prompt/en.md) · [日本語](references/original-prompt/ja.md) · [한국어](references/original-prompt/ko.md) · [العربية](references/original-prompt/ar.md)
+
+简体中文文件保存小小东提供的逐字原文，并且是运行时唯一审美权威；其他四个版本是忠实的阅读译文，方便国际读者理解和转发，不会反过来改写生图提示词。
+
 <!-- xxd-panel-benefit:start -->
 ## 快速判断：XXD Panel 039 适合你吗？
 
@@ -69,11 +75,11 @@
 - 选用洁净白、冷白、象牙白、极浅彩色或有源图依据的纯净有色丝绢底；不得默认脏米色、泛黄亚麻、污渍或假旧。
 - 以近似色穿插、少量互补点醒、高纯度小面积亮色和针向闪烁建立源图衍生丝线色阶；丰富不杂乱，明艳不俗艳。
 
-原始审美约束与拒绝项只存在于[原始提示词](references/039-source.md)；Skill 与运行适配器只处理本次交付变量。 [Skill 工作流](SKILL.md) · [英文运行适配器](references/xxd-panel-039-prompt.en.md)
+原始审美约束与拒绝项只存在于[原始提示词](references/original-prompt/zh-CN.md)；Skill 与运行适配器只处理本次交付变量。 [Skill 工作流](SKILL.md) · [英文运行适配器](references/xxd-panel-039-prompt.en.md)
 
 ## 原始提示词优先，而不是二次导演
 
-`references/039-source.md` 是本项目唯一的创作与审美权威。Skill 不再额外总结或扩写它，也不会统一规划颜色、色板、美学动机、标题或微文案。原始提示词要求怎样处理颜色、材料、构图、留白与文字，GPT Image 2 就按那套逻辑执行。
+`references/original-prompt/zh-CN.md` 是本项目唯一的创作与审美权威。Skill 不再额外总结或扩写它，也不会统一规划颜色、色板、美学动机、标题或微文案。原始提示词要求怎样处理颜色、材料、构图、留白与文字，GPT Image 2 就按那套逻辑执行。
 
 模式与尺寸会完整替换原始提示词旧有的 3:4 上下交付容器，但不改写它的转译美学。每张成品只向 GPT Image 2 发送一个已选模式的最终契约，不再把四种模式放进同一个通用模板让模型自行猜测。
 
@@ -213,7 +219,7 @@ $xxd-panel-039
 Use this photograph, ask me for the modes and copy setting, then generate fresh raster outputs.
 ```
 
-完整规格: [Skill 工作流](SKILL.md) · [原始风格档案](references/039-source.md) · [英文运行适配器](references/xxd-panel-039-prompt.en.md) · [中文运行适配器](references/xxd-panel-039-prompt.zh-CN.md)
+完整规格: [Skill 工作流](SKILL.md) · [原始风格档案](references/original-prompt/zh-CN.md) · [英文运行适配器](references/xxd-panel-039-prompt.en.md) · [中文运行适配器](references/xxd-panel-039-prompt.zh-CN.md)
 
 <!-- xxd-panel-catalog:start -->
 ## XXD Panel 全系列项目
