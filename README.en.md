@@ -14,16 +14,7 @@
 
 </div>
 
-<div>
-
-> ONE IMAGE · ONE ESSENCE · SILK DIRECTION · CLEAN GROUND · EASTERN SILENCE
-
-One posture, contour, relation, action, or symbolic detail carries the whole source through layered Chinese silk, varied stitch direction, luminous colour, unfinished edges, and active Eastern whitespace.
-
 ## Samples · From X
-
-> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2090817611953270966) · 2026-08-21<br>
-> GPT2 x 刺绣 x 内核 x 美学提示词 x VOL.039
 
 <table>
   <tr>
@@ -35,9 +26,18 @@ One posture, contour, relation, action, or symbolic detail carries the whole sou
   </tr>
 </table>
 
+> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2090817611953270966) · 2026-08-21<br>
+> GPT2 x 刺绣 x 内核 x 美学提示词 x VOL.039
+
 <p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090817611953270966">View the original post and full prompt →</a></p>
 
 These samples demonstrate the 039 aesthetic motive. Their subjects, composition, palette, copy, and earlier canvas ratio never become generation references or current defaults.
+
+<div>
+
+> ONE IMAGE · ONE ESSENCE · SILK DIRECTION · CLEAN GROUND · EASTERN SILENCE
+
+One posture, contour, relation, action, or symbolic detail carries the whole source through layered Chinese silk, varied stitch direction, luminous colour, unfinished edges, and active Eastern whitespace.
 
 <!-- xxd-panel-benefit:start -->
 ## Quick fit check: is XXD Panel 039 right for you?
