@@ -1,16 +1,23 @@
 # XXD Panel 039 samples
 
-## Verified source
+## Verified original source
 
 - X post: https://x.com/xiaoxiaodong01/status/2090817611953270966
 - Author: Xiaoxiaodong (`@xiaoxiaodong01`)
-- Verification: The X post identifies this series as `VOL.039`.
-- Local files:
+- Project assignment: `VOL.039`
+- Original X sample files:
   - `sample-01.jpg`
   - `sample-02.jpg`
   - `sample-03.jpg`
-  - `sample-06.png` — generated 16:9 left-right English-copy sample from the Chenxiang poster batch
-  - `sample-07.png` — generated 16:9 left-right English-copy sample from the Chenxiang poster batch
-  - `sample-08.png` — generated 16:9 left-right English-copy sample from the Chenxiang poster batch
 
-The repository READMEs display these local copies; the original samples link back to their X post, while samples 05–08 are generated 16:9 left-right batch samples. The samples demonstrate the style's aesthetic motive and range only; they never become generation references, source material, fixed subjects, palettes, composition, copy, or default canvas sizes.
+## Additional landscape samples
+
+- Content source: `group_014`; all four source files are used once in filename order.
+- `sample-05.png` ← `group_014/053.jpg`
+- `sample-06.png` ← `group_014/054.jpg`
+- `sample-07.png` ← `group_014/055.webp`
+- `sample-08.png` ← `group_014/056.png`
+- Style identity: XXD Panel 039; reviewed against its original prompt and original X samples.
+- Delivery: 1536×864 PNG, 16:9 left-right composition, English copy governed by the Panel brief.
+
+The project READMEs keep original X samples and additional landscape samples in separate sections so their provenance is never conflated.
