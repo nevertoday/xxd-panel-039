@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 039
+# 🦁 XXD Panel 039｜자수 심상
 
 ### 사진 한 장의 핵을 하나의 살아 있는 중국 자수로
 

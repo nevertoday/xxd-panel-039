@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 039
+# 🦁 XXD Panel 039｜刺繍のイメージ
 
 ### 一枚の写真の核を、一つの生きた中国刺繍へ
 

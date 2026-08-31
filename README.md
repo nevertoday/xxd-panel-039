@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 039
+# 🦁 XXD Panel 039｜刺绣意象
 
 ### 一图一核，把最值得留下的东西绣进一片灵动丝光
 

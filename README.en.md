@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 039
+# 🦁 XXD Panel 039｜Embroidered Imagery
 
 ### Keep one photograph's essence in one living field of Chinese silk
 
