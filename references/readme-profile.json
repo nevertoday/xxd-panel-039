@@ -1,0 +1,84 @@
+{
+  "skill_description": "XXD Panel 039｜Embroidered Imagery: chooses the single image that best carries a photo's meaning — one pose, outline, gesture or symbolic detail — and embroiders only that in Chinese silk thread, with satin, long-and-short, couched, wrapped and seed stitches whose direction and density change with the form. Some parts are finely worked, others left as a few stitches or an unfinished outline, on a clean, airy silk ground (white, cool white, soft ivory or a clear tint) with wide empty space. Shimmering thread colours come from the photo; one very short phrase is stitched or added as a slim label. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-039 or asks for Chinese embroidery, silk-thread stitching or minimal Eastern textile art from a photo.",
+  "short_description": "刺绣意象：从照片里只选一个核心意象，用中国丝线针法绣在清亮的绢底上",
+  "zh-CN": {
+    "name": "刺绣意象",
+    "tagline": "从照片里只挑一个最值得留下的意象，绣进一片灵动的丝光里。",
+    "look": "不把整张照片绣一遍，只选一个最能代表它的姿态、轮廓、动作或局部，用中国刺绣重新绣出：平针、长短针、盘线、缠线、打籽，针向和密度随形态变化，看得见丝线光泽和叠线。有的地方绣得很细，有的只留几针、一道线或没绣完的边，和大片空白一起构成画面。底子是干净清亮的丝绢，洁白、冷白、柔和象牙白或纯净的浅彩色，不泛黄、不做旧。颜色从照片里挑最有神采的几种，变成有深浅冷暖变化的丝线色；文字只有一个很短的词或短句，用细线绣出或写成纤细题签。",
+    "traits": ["中国丝线", "刺绣", "针向层次", "单一核心", "东方留白"],
+    "good": [
+      "有一个动人局部或姿态的照片：一只停在枝上的鸟、一朵花、回眸的人",
+      "有象征意味的物件或自然景物：一片荷叶、一盏灯、一尾鱼",
+      "想做成东方意味的海报、节日卡片或纪念画的照片"
+    ],
+    "poor": [
+      "需要把整个场景完整保留的照片，这套风格只绣一个核心",
+      "细节密集、要靠文字或数字传达信息的图：菜单、海报、截图",
+      "想要满版传统纹样、米黄旧布底、固定国风配色或文创商品感的效果"
+    ]
+  },
+  "en": {
+    "name": "Embroidered Imagery",
+    "tagline": "Picks the one image in your photo most worth keeping and embroiders it in shimmering silk.",
+    "look": "Instead of embroidering the whole photo, it chooses the single pose, outline, gesture or detail that best stands for it and stitches that in Chinese embroidery: satin, long-and-short, couched, wrapped and seed stitches whose direction and density follow the form, with visible thread sheen and overlaps. Some areas are finely worked; others are only a few stitches, a single line or an unfinished edge, set against wide empty space. The ground is clean, bright silk in white, cool white, soft ivory or a clear pale tint, never yellowed or aged. The photo's most spirited colours become thread shades shifting between warm and cool, light and dark; the only text is one very short word or phrase, stitched in fine thread or set as a slim label.",
+    "traits": ["Chinese silk thread", "Embroidery", "Stitch-direction layers", "One core image", "Eastern whitespace"],
+    "good": [
+      "Photos with one moving detail or pose: a bird on a branch, a single flower, a person glancing back",
+      "Symbolic objects or natural motifs: a lotus leaf, a lantern, a fish",
+      "Photos for a poster with an Eastern feel, a festival card or a keepsake picture"
+    ],
+    "poor": [
+      "Photos where the whole scene must be kept, since the style embroiders only one core image",
+      "Dense images that carry information through text or numbers: menus, posters, screenshots",
+      "Requests for all-over traditional patterns, beige aged-cloth grounds, stock Chinese-style palettes or a gift-shop look"
+    ]
+  },
+  "ja": {
+    "name": "刺繍のイメージ",
+    "tagline": "写真からいちばん残す価値のあるイメージを一つだけ選び、生き生きとした絹の光の中に刺繍します。",
+    "look": "写真全体を刺繍するのではなく、写真を最もよく表す姿勢、輪郭、動き、部分を一つだけ選んで中国刺繍で縫い直します。平繍、長短繍、まとい繍、巻き繍、相良繍などを使い、針の向きと密度は形に合わせて変わり、糸の艶や重なりが見えます。細かく縫い込む部分もあれば、数針、一本の線、縫いかけの縁だけの部分もあり、大きな余白とともに画面をつくります。地は清潔で明るい絹で、白、冷たい白、柔らかなアイボリー、澄んだ淡い色のいずれかで、黄ばみや古びはありません。色は写真のいちばん生気ある色を選び、寒暖や濃淡がゆらぐ糸の色にします。文字はごく短い一語か一句だけで、細い糸で縫うか細い題簽にします。",
+    "traits": ["中国の絹糸", "刺繍", "針目の重なり", "一つの核", "東洋の余白"],
+    "good": [
+      "心に残る部分や姿勢がある写真：枝にとまる鳥、一輪の花、振り返る人",
+      "象徴的な物や自然のモチーフ：蓮の葉、灯り、一尾の魚",
+      "東洋的な趣のポスター、季節のカード、記念の絵にしたい写真"
+    ],
+    "poor": [
+      "場面全体を残したい写真（このスタイルは核となる一つだけを刺繍します）",
+      "文字や数字で情報を伝える細かい画像：メニュー、ポスター、スクリーンショット",
+      "総柄の伝統文様、ベージュの古布地、決まりきった中華風配色、土産物風の仕上がりを求める場合"
+    ]
+  },
+  "ko": {
+    "name": "자수 심상",
+    "tagline": "사진에서 가장 남길 만한 이미지 하나만 골라 생생한 비단 광택 속에 수놓습니다.",
+    "look": "사진 전체를 수놓지 않고, 사진을 가장 잘 대표하는 자세, 윤곽, 동작, 부분 하나만 골라 중국 자수로 다시 놓습니다. 평수, 장단침, 감침수, 휘감기, 매듭수 등을 쓰고 바늘 방향과 밀도는 형태에 따라 바뀌며, 실의 광택과 겹친 실이 보입니다. 아주 촘촘히 수놓은 곳도 있고 몇 땀, 한 줄, 다 놓지 않은 가장자리만 남긴 곳도 있어 넓은 여백과 함께 화면을 이룹니다. 바탕은 깨끗하고 맑은 비단으로 흰색, 차가운 흰색, 부드러운 아이보리, 맑은 연한 색 중 하나이며 누렇게 바래거나 낡지 않습니다. 색은 사진에서 가장 생기 있는 색을 골라 따뜻함과 차가움, 짙음과 옅음이 오가는 실 색으로 바꾸고, 글자는 아주 짧은 단어나 구절 하나를 가는 실로 수놓거나 가는 제첨으로 둡니다.",
+    "traits": ["중국 비단실", "자수", "바늘 방향의 층", "하나의 핵심", "동양적 여백"],
+    "good": [
+      "마음에 남는 부분이나 자세가 있는 사진: 가지에 앉은 새, 꽃 한 송이, 돌아보는 사람",
+      "상징성이 있는 사물이나 자연 소재: 연잎, 등불, 물고기 한 마리",
+      "동양적 분위기의 포스터, 명절 카드, 기념 그림으로 만들고 싶은 사진"
+    ],
+    "poor": [
+      "장면 전체를 남겨야 하는 사진(이 스타일은 핵심 하나만 수놓습니다)",
+      "글자나 숫자로 정보를 전하는 빽빽한 이미지: 메뉴판, 포스터, 스크린숏",
+      "전면 전통 문양, 누런 낡은 천 바탕, 정해진 중국풍 배색, 기념품 상품 같은 느낌을 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "صور مطرزة",
+    "tagline": "يختار من صورتك الصورة الوحيدة الأجدر بالبقاء ويطرّزها في لمعان حريري حيّ.",
+    "look": "لا تُطرَّز الصورة كلها، بل يُختار وضع أو خط خارجي أو حركة أو تفصيل واحد يمثلها خير تمثيل ويُطرَّز بالتطريز الصيني: غرز ساتان وغرز طويلة وقصيرة وخيوط مثبتة وملفوفة وغرز العقد، يتغير اتجاهها وكثافتها مع الشكل، ويظهر لمعان الخيط وتراكبه. بعض المواضع مطرّزة بدقة، وبعضها غرزات قليلة أو خط واحد أو حافة لم تكتمل، مع فراغ واسع حولها. الأرضية حرير نظيف صافٍ بالأبيض أو الأبيض البارد أو العاجي الناعم أو لون فاتح نقي، بلا اصفرار أو تعتيق. تتحول أكثر ألوان الصورة حيوية إلى درجات خيط تتنقل بين الدافئ والبارد والفاتح والداكن، والنص الوحيد كلمة أو عبارة قصيرة جداً مطرّزة بخيط رفيع أو مكتوبة على بطاقة عنوان نحيلة.",
+    "traits": ["خيط حرير صيني", "تطريز", "طبقات اتجاه الغرز", "صورة جوهرية واحدة", "فراغ شرقي"],
+    "good": [
+      "صور فيها تفصيل أو وضعية مؤثرة: طائر على غصن، زهرة واحدة، شخص يلتفت",
+      "أشياء أو عناصر طبيعية ذات رمزية: ورقة لوتس، فانوس، سمكة",
+      "صور لملصق بروح شرقية أو بطاقة مناسبة أو لوحة تذكارية"
+    ],
+    "poor": [
+      "صور يجب الاحتفاظ بمشهدها كاملاً، لأن الأسلوب لا يطرّز إلا عنصراً جوهرياً واحداً",
+      "صور كثيفة تنقل المعلومات بالنصوص أو الأرقام: قوائم الطعام، الملصقات، لقطات الشاشة",
+      "طلب زخارف تقليدية تملأ المساحة أو أرضية قماش قديم بيج أو ألوان صينية نمطية أو طابع هدايا تذكارية"
+    ]
+  }
+}
